@@ -1,6 +1,9 @@
 .vh-36{
-    height: 36vh;
+    height: 600px;
 }
 .logo-navbar{
     height: 3vh;
+}
+a{
+    text-decoration: none;
 }
