@@ -1,5 +1,15 @@
 .vh-36{
-    height: 70vh;
+    height: 36vw;
+    max-height: 600px;
+    
+}
+@media (max-width:768px) {
+.mobile{
+
+    height: 30vh;
+    width: 100%;
+
+    }
 }
 .logo-navbar{
     height: 3vh;
