@@ -1,5 +1,8 @@
+body{
+    height: 100vh;
+}
 .vh-36{
-    height: 600px;
+    height: 55vh;
 }
 .logo-navbar{
     height: 3vh;
